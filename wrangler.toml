@@ -1,4 +1,4 @@
-name = "pure-luna-admin-api"
+name = "pure-luna-admin-api-mvp-v1"
 main = "src/index.ts"
 compatibility_date = "2026-09-19"
 
@@ -7,3 +7,9 @@ GOOGLE_SHEET_RANGE = "export_json_bundle!A2:A2"
 EXPECTED_BUNDLE_VERSION = "mvp-v1"
 EXPECTED_ROUTE_COUNT = "6"
 EXPECTED_CONTENT_FIELD_COUNT = "27"
+# ...
+[observability.logs]
+enabled = true
+invocation_logs = true
+persist = true
+# ...

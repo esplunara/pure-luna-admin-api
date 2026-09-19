@@ -4,3 +4,8 @@ GOOGLE_SHEETS_ID
 GOOGLE_CLIENT_EMAIL
 GOOGLE_PRIVATE_KEY
 PURE_LUNA_BUILD_TOKEN
+.wrangler/
+.dev.vars
+.env
+node_modules/
+dist/
