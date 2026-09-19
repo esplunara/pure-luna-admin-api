@@ -9,3 +9,9 @@ PURE_LUNA_BUILD_TOKEN
 .env
 node_modules/
 dist/
+
+.wrangler/
+.dev.vars
+.env
+node_modules/
+dist/
