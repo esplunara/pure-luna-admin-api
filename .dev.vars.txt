@@ -1,4 +1,0 @@
-PURE_LUNA_BUILD_TOKEN=replace_with_your_local_build_token
-GOOGLE_SHEETS_ID=replace_with_google_sheet_id
-GOOGLE_CLIENT_EMAIL=replace_with_service_account_email
-GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nreplace_private_key_body\n-----END PRIVATE KEY-----\n"
