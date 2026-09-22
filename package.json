@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "wrangler dev",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "secrets:put": "powershell -ExecutionPolicy Bypass -File scripts/put-secrets.ps1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "latest",

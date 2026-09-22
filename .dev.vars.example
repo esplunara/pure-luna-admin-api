@@ -1,0 +1,7 @@
+# Copy to .dev.vars and fill in real values:
+#   copy .dev.vars.example .dev.vars
+
+PURE_LUNA_BUILD_TOKEN=your-random-build-token
+GOOGLE_SHEETS_ID=your-google-sheet-id
+GOOGLE_CLIENT_EMAIL=your-service-account@project.iam.gserviceaccount.com
+GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n"
